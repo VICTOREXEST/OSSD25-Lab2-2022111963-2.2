@@ -1,6 +1,6 @@
 import java.util.*;
 
-/*
+/**
  * @Description
  * 重复 DNA 序列
  * DNA 序列 由一系列核苷酸组成，缩写为 'A', 'C', 'G' 和 'T'.。
